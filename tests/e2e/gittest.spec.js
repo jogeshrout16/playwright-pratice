@@ -4,3 +4,4 @@ let b = jogesh;
 let sum = a - b;
 
 console.log("Sum of two numbers:", sum);
+console.log("wrong code")
