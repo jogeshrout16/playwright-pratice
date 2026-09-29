@@ -12,7 +12,7 @@ module.exports = defineConfig({
   ],
   use: {
     headless: true,
-    baseURL: 'https://example.com',
+    baseURL: 'https://freelance-learn-automation.vercel.app/login',
     trace: 'on-first-retry',
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
